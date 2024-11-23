@@ -1,0 +1,20 @@
+<style>
+.chakra-ui-light {
+  background-image: linear-gradient(rgba(200,200,200,0.7), rgba(200,200,200,0.7)), url('https://www.chirmyram.top/bingpic.php');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.9;
+}
+.main-box {
+  border-radius: 15px !important;
+}
+.chakra-ui-light .main-box {
+  background-color: white !important;
+}
+.chakra-ui-light .readme-box {
+  background-color: white !important;
+}
+.readme-box {
+  border-radius: 15px !important;
+}</style>
